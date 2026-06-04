@@ -4,7 +4,7 @@
 
 💻 C++ | DSA | Web Development
 
-⚡ 129+ LeetCode Problems Solved
+⚡ LeetCode Problems 
 
 📚 Learning React & Backend Development
 
